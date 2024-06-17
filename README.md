@@ -1,10 +1,10 @@
 ﻿# Cognifyz_Task_3
  
-React Form Validator
+React Form Validator -
 
 This is a simple React application that demonstrates form validation. The form includes fields for a name, email address, number, password, and description.
 
-Features
+Features :
 
 Real-time validation feedback
 
@@ -12,9 +12,9 @@ Password visibility toggle
 
 Success message on form submission
 
-Demo
+Demo -
 
-Installation
+Installation -
 
 1.Clone the repository:
 
@@ -28,9 +28,10 @@ cd form-validator
 
 npm install
 
-Usage
+Usage -
 
 To start the development server, run:
+
 npm start
 
 The application will be available at http://localhost:5173.

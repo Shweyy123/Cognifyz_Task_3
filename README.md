@@ -7,7 +7,9 @@ This is a simple React application that demonstrates form validation. The form i
 Features
 
 Real-time validation feedback
+
 Password visibility toggle
+
 Success message on form submission
 
 Demo
@@ -15,12 +17,15 @@ Demo
 Installation
 
 1.Clone the repository:
+
 git clone https://github.com/your-username/form-validator.git
 
 2.Navigate to the project directory:
+
 cd form-validator
 
 3.Install dependencies:
+
 npm install
 
 Usage
